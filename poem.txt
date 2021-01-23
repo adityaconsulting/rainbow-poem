@@ -1,0 +1,6 @@
+red
+green
+blue
+yellow
+purple
+These are colors in my rainbow
