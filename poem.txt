@@ -2,6 +2,7 @@ red
 green
 blue
 yellow
+brown
 purple
 orange
 These are colors in my rainbow
