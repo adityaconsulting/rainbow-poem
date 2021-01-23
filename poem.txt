@@ -3,4 +3,5 @@ green
 blue
 yellow
 purple
+orange
 These are colors in my rainbow
