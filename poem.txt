@@ -6,4 +6,5 @@ yellow
 brown
 purple
 orange
+indigo
 These are colors in my rainbow
