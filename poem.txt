@@ -7,4 +7,5 @@ brown
 purple
 orange
 indigo
+grey 
 These are colors in my rainbow
